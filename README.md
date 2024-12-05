@@ -5,7 +5,7 @@
 </head>
 <body>
 
-<h1 {background-color: blue;} style="text-align:center;">Avalanche Test Week 4</h1>
+<h1 style="text-align:center;">Avalanche Test Week 4</h1>
 <p style="text-align:center;"><b>RESUME</b>
 <p style="text-align:center;"><b>IWAN SAPUTRA R</b>
 
