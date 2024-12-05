@@ -14,7 +14,7 @@
 Adaptive, Discipline, Communicative and Responsible person. </p2>
 
 <p>I have some work experience, My first full time job as :</p3>
-<p>•	Staff Administration – at PT. Makindo Vape Solution (Start from Dec 2021 until Jun 2022)</p4> 
+<p>•	Staff Administration – at PT. Makindo Vape Solution (Start from Dec 2021 until Jun 2022)</p4> ![alt text](https://github.com/IwanSR/IwanSR/blob/main/logo%20era.png?raw=true)
 <p>•	And My next job, My role as Office Coordinator – at PT. Fajar Inovasi Utama (Start from Jun 2022 until Dec 2023)</p5>
 <p>•	And then my next job is, Teller Service Staff – at PT. Bank Tabungan Negara (Start from Feb 2024 Until Jul 2024)</p6>
 <p>•	Currently my role as a Marketing Officer – at PT. Asuransi Etiqa International Indonesia (Start from Agustus 2024 until now)</p7>
